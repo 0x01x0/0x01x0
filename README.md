@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">
-    <b>大家好, 我是 <a href="https://0x01x0.ml">0x01x0</ai 😄</b>
+    <b>大家好, 我是 <a href="https://0x01x0.ml">0x01x0</a> 😄</b>
   </h1>
 </p>
 
